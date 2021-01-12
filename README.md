@@ -7,9 +7,9 @@ Hinode(日の出) means sunrise in Japanese.
 
 <div align=left>
 
-![preview](https://github.com/aimof/hinode/blob/master/images/preview.png)
+![preview](./images/preview.png)
 
-Preview source code LICENSE(https://github.com/golang/go/blob/master/LICENSE)
+Preview source code [LICENSE](https://github.com/golang/go/blob/master/LICENSE)
 
 </div>
 
