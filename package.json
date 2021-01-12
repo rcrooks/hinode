@@ -31,7 +31,7 @@
                 "label": "hinode italic",
                 "uiTheme": "vs-dark",
                 "path": "./themes/hinode-italic-color-theme.json"
-            },
+            }
         ]
     }
 }
