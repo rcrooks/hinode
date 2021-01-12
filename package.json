@@ -2,6 +2,7 @@
     "name": "hinode",
     "displayName": "Hinode",
     "description": "Hinode is a color theme like sunrise.",
+    "publisher": "aimof",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.52.0"
