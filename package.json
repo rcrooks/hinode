@@ -10,6 +10,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "./images/icon.png",
     "license": "https://github.com/aimof/hinode/blob/master/LICENSE",
     "homepage": "https://github.com/aimof/hinode",
     "bugs": {
