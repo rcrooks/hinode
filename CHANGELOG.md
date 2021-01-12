@@ -6,11 +6,16 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.0.4] 2021-01-12
+### Fixed
+- some mistakes
+
 ## [0.0.3] 2021-01-12
 ### Added
 - icon
 ### Fixed
 - editor highlight background color
+- terminal ansi color
 
 ## [0.0.2] 2021-01-12
 ### Fixed
